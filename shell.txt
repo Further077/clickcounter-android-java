@@ -1,0 +1,14 @@
+Shell,
+
+I want to use a lot of the code from this Click Counter application. We will use the followin
+elements for our our application:
+
+UI
+- Buttons
+- Icon
+- Number Display
+
+Logic
+
+- Counter interface
+- Counter object
