@@ -1,6 +1,6 @@
 Shell,
 
-I want to use a lot of the code from this Click Counter application. We will use the followin
+I want to use a lot of the code from this Click Counter application. We will use the following
 elements for our our application:
 
 UI
